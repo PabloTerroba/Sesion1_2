@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+    <RootNamespace>sesion1._2</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="SNFMessage">
+      <HintPath>..\..\SNFMessage\SNFMessage\bin\Debug\netcoreapp2.1\SNFMessage.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
