@@ -1,0 +1,10 @@
+C:\Users\UO289073\source\repos\SNFMessage\SNFMessage\bin\Debug\netcoreapp2.1\SNFMessage.deps.json
+C:\Users\UO289073\source\repos\SNFMessage\SNFMessage\bin\Debug\netcoreapp2.1\SNFMessage.dll
+C:\Users\UO289073\source\repos\SNFMessage\SNFMessage\bin\Debug\netcoreapp2.1\SNFMessage.pdb
+C:\Users\UO289073\source\repos\SNFMessage\SNFMessage\obj\Debug\netcoreapp2.1\SNFMessage.csproj.AssemblyReference.cache
+C:\Users\UO289073\source\repos\SNFMessage\SNFMessage\obj\Debug\netcoreapp2.1\SNFMessage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\UO289073\source\repos\SNFMessage\SNFMessage\obj\Debug\netcoreapp2.1\SNFMessage.AssemblyInfoInputs.cache
+C:\Users\UO289073\source\repos\SNFMessage\SNFMessage\obj\Debug\netcoreapp2.1\SNFMessage.AssemblyInfo.cs
+C:\Users\UO289073\source\repos\SNFMessage\SNFMessage\obj\Debug\netcoreapp2.1\SNFMessage.csproj.CoreCompileInputs.cache
+C:\Users\UO289073\source\repos\SNFMessage\SNFMessage\obj\Debug\netcoreapp2.1\SNFMessage.dll
+C:\Users\UO289073\source\repos\SNFMessage\SNFMessage\obj\Debug\netcoreapp2.1\SNFMessage.pdb
