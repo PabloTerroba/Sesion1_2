@@ -928,11 +928,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\practica1_2\\Sesion1_2\\sesion1.2\\sesion1.2\\sesion1.2.csproj",
+      "projectUniqueName": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\Practica1_2\\Sesion1_2\\sesion1.2\\sesion1.2\\sesion1.2.csproj",
       "projectName": "sesion1.2",
-      "projectPath": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\practica1_2\\Sesion1_2\\sesion1.2\\sesion1.2\\sesion1.2.csproj",
+      "projectPath": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\Practica1_2\\Sesion1_2\\sesion1.2\\sesion1.2\\sesion1.2.csproj",
       "packagesPath": "C:\\Users\\Portatil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\practica1_2\\Sesion1_2\\sesion1.2\\sesion1.2\\obj\\",
+      "outputPath": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\Practica1_2\\Sesion1_2\\sesion1.2\\sesion1.2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Portatil\\AppData\\Roaming\\NuGet\\NuGet.Config",

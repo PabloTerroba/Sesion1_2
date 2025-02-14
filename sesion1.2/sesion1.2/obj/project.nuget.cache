@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dWrzuJb7nITwyB+5i6/HuxgODQhIMiSHzsh3Lg1kl+LubM5Pqkvc99nXya9YkorWfqYojgRNVXm+KqI6k79uZg==",
+  "dgSpecHash": "B6GoUP3T1WoERsbvzyoPEKstmwOPBWykl26BgpSbbmbMcwrwaPiUwnv81jCrYF8qN5SgIBqSfW/37I5r/D3wcQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\practica1_2\\Sesion1_2\\sesion1.2\\sesion1.2\\sesion1.2.csproj",
+  "projectFilePath": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\Practica1_2\\Sesion1_2\\sesion1.2\\sesion1.2\\sesion1.2.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Portatil\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Portatil\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",
