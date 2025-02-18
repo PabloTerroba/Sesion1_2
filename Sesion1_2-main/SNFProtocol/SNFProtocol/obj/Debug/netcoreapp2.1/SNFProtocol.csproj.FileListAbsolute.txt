@@ -1,0 +1,42 @@
+C:\Users\pablo\source\repos\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.deps.json
+C:\Users\pablo\source\repos\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.dll
+C:\Users\pablo\source\repos\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.pdb
+C:\Users\pablo\source\repos\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\source\repos\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.AssemblyInfoInputs.cache
+C:\Users\pablo\source\repos\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.AssemblyInfo.cs
+C:\Users\pablo\source\repos\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.dll
+C:\Users\pablo\source\repos\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.pdb
+C:\Users\Portatil\Downloads\Sesion1_2-prueba\Sesion1_2-prueba\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.deps.json
+C:\Users\Portatil\Downloads\Sesion1_2-prueba\Sesion1_2-prueba\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.dll
+C:\Users\Portatil\Downloads\Sesion1_2-prueba\Sesion1_2-prueba\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.pdb
+C:\Users\Portatil\Downloads\Sesion1_2-prueba\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.csproj.AssemblyReference.cache
+C:\Users\Portatil\Downloads\Sesion1_2-prueba\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Portatil\Downloads\Sesion1_2-prueba\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.AssemblyInfoInputs.cache
+C:\Users\Portatil\Downloads\Sesion1_2-prueba\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.AssemblyInfo.cs
+C:\Users\Portatil\Downloads\Sesion1_2-prueba\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Downloads\Sesion1_2-prueba\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.sourcelink.json
+C:\Users\Portatil\Downloads\Sesion1_2-prueba\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.dll
+C:\Users\Portatil\Downloads\Sesion1_2-prueba\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.pdb
+C:\Users\Portatil\Documents\AplicacionesTelematicas\Sesion1_2-ampliacion1\Sesion1_2-prueba\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.deps.json
+C:\Users\Portatil\Documents\AplicacionesTelematicas\Sesion1_2-ampliacion1\Sesion1_2-prueba\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.dll
+C:\Users\Portatil\Documents\AplicacionesTelematicas\Sesion1_2-ampliacion1\Sesion1_2-prueba\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.pdb
+C:\Users\Portatil\Documents\AplicacionesTelematicas\Sesion1_2-ampliacion1\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.csproj.AssemblyReference.cache
+C:\Users\Portatil\Documents\AplicacionesTelematicas\Sesion1_2-ampliacion1\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Portatil\Documents\AplicacionesTelematicas\Sesion1_2-ampliacion1\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.AssemblyInfoInputs.cache
+C:\Users\Portatil\Documents\AplicacionesTelematicas\Sesion1_2-ampliacion1\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.AssemblyInfo.cs
+C:\Users\Portatil\Documents\AplicacionesTelematicas\Sesion1_2-ampliacion1\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.csproj.CoreCompileInputs.cache
+C:\Users\Portatil\Documents\AplicacionesTelematicas\Sesion1_2-ampliacion1\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.sourcelink.json
+C:\Users\Portatil\Documents\AplicacionesTelematicas\Sesion1_2-ampliacion1\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.dll
+C:\Users\Portatil\Documents\AplicacionesTelematicas\Sesion1_2-ampliacion1\Sesion1_2-prueba\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.pdb
+C:\Users\pablo\Downloads\Sesion1_2-main (1)\Sesion1_2-main\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.deps.json
+C:\Users\pablo\Downloads\Sesion1_2-main (1)\Sesion1_2-main\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.dll
+C:\Users\pablo\Downloads\Sesion1_2-main (1)\Sesion1_2-main\SNFProtocol\SNFProtocol\bin\Debug\netcoreapp2.1\SNFProtocol.pdb
+C:\Users\pablo\Downloads\Sesion1_2-main (1)\Sesion1_2-main\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.csproj.AssemblyReference.cache
+C:\Users\pablo\Downloads\Sesion1_2-main (1)\Sesion1_2-main\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\Downloads\Sesion1_2-main (1)\Sesion1_2-main\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.AssemblyInfoInputs.cache
+C:\Users\pablo\Downloads\Sesion1_2-main (1)\Sesion1_2-main\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.AssemblyInfo.cs
+C:\Users\pablo\Downloads\Sesion1_2-main (1)\Sesion1_2-main\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Downloads\Sesion1_2-main (1)\Sesion1_2-main\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.dll
+C:\Users\pablo\Downloads\Sesion1_2-main (1)\Sesion1_2-main\SNFProtocol\SNFProtocol\obj\Debug\netcoreapp2.1\SNFProtocol.pdb
