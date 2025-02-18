@@ -5045,11 +5045,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\Sesion1_2-ampliacion1\\Sesion1_2-prueba\\SNFProtocol\\SNFProtocol.Tests\\SNFProtocol.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Portatil\\Documents\\Repositorio\\Sesion1_2\\SNFProtocol\\SNFProtocol.Tests\\SNFProtocol.Tests.csproj",
       "projectName": "SNFProtocol.Tests",
-      "projectPath": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\Sesion1_2-ampliacion1\\Sesion1_2-prueba\\SNFProtocol\\SNFProtocol.Tests\\SNFProtocol.Tests.csproj",
+      "projectPath": "C:\\Users\\Portatil\\Documents\\Repositorio\\Sesion1_2\\SNFProtocol\\SNFProtocol.Tests\\SNFProtocol.Tests.csproj",
       "packagesPath": "C:\\Users\\Portatil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\Sesion1_2-ampliacion1\\Sesion1_2-prueba\\SNFProtocol\\SNFProtocol.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Portatil\\Documents\\Repositorio\\Sesion1_2\\SNFProtocol\\SNFProtocol.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Portatil\\AppData\\Roaming\\NuGet\\NuGet.Config",

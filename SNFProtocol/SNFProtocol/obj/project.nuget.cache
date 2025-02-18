@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "aHeSDbnQqbbRz4bWTrdIp4MiwvIcOAt2bYeS11BG6hCMcL9biu/BvOrr8Bqk8VV8MM92eKg74bDMnSDgpVVjHQ==",
+  "dgSpecHash": "75TDwiEqPc+9lHujl3emD4Av0iXy5AWTjJyuixeFH6aNhAv6UvkZ1/XbSHm+pwiKQbnEkTFRvWAP2XtgnOz+Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\Sesion1_2-ampliacion1\\Sesion1_2-prueba\\SNFProtocol\\SNFProtocol\\SNFProtocol.csproj",
+  "projectFilePath": "C:\\Users\\Portatil\\Documents\\Repositorio\\Sesion1_2\\SNFProtocol\\SNFProtocol\\SNFProtocol.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Portatil\\.nuget\\packages\\microsoft.netcore.app\\2.1.0\\microsoft.netcore.app.2.1.0.nupkg.sha512",
     "C:\\Users\\Portatil\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.1.0\\microsoft.netcore.dotnetapphost.2.1.0.nupkg.sha512",

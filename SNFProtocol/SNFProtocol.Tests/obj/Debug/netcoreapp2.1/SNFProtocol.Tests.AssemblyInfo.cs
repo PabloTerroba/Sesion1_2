@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SNFProtocol.Tests")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2b0b160ed71e19c9ba87f2a6a0f08d3bcf9b3885")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6c0a4a7bcbbc1b0ecbfc0c83aa501b6dd053ce87")]
 [assembly: System.Reflection.AssemblyProductAttribute("SNFProtocol.Tests")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SNFProtocol.Tests")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

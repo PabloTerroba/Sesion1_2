@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/+91wh2eIbhj5CN717pFGG+hr3I1NeklxtwnIFeWGr9LEvpu6jMnIXqq+kuYCfr/iVgg+rMK3TOaxCR51fVYog==",
+  "dgSpecHash": "xajvm+Qf8GPEWdYf/KyViV8E4AGvg0QS2q991tc4UhxH3YamOMrZqwAezmLLCvieEqfz+RnfTIHDOcRJlT3pVg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Portatil\\Documents\\AplicacionesTelematicas\\Sesion1_2-ampliacion1\\Sesion1_2-prueba\\SNFProtocol\\SNFProtocol.Tests\\SNFProtocol.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Portatil\\Documents\\Repositorio\\Sesion1_2\\SNFProtocol\\SNFProtocol.Tests\\SNFProtocol.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Portatil\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Portatil\\.nuget\\packages\\microsoft.codecoverage\\17.1.0\\microsoft.codecoverage.17.1.0.nupkg.sha512",
